@@ -1,5 +1,6 @@
 # Bookshelf
-Books and articles that I read and found worth keeping
+
+This is my virtual library. It's a collection of books, articles and videos that helped shaping who I am. 
 
 ## IT
 
