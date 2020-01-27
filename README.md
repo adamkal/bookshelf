@@ -14,3 +14,8 @@ This is my virtual library. It's a collection of books, articles and videos that
 
 * [Start with Why: How Great Leaders Inspire Everyone to Take Action -- Simon Sinek](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/)
 * [We Need to Talk: How to Have Conversations That Matter -- Celeste Headlee](https://www.amazon.com/We-Need-Talk-Conversations-Matter-ebook/dp/B01NAID961/)
+
+
+## Web resources
+
+* [Python WTF's](https://github.com/satwikkansal/wtfpython)
